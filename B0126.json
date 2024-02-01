@@ -20,57 +20,86 @@
         },
         {
             "key": "drpy_js_奇珍异兽",
-            "name": "🥝奇珍异兽[js]",
+            "name": "🥝奇珍异兽",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yangxy001/box/master/js/奇珍异兽.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/奇珍异兽.js"
         },
         {
             "key": "drpy_js_优酷",
-            "name": "💽优酷[js]",
+            "name": "💽优酷",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/优酷.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/优酷.js"
         },
         {
             "key": "drpy_js_腾云驾雾",
-            "name": "🐧腾云驾雾[js]",
+            "name": "🐧腾云驾雾",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/腾云驾雾.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/腾云驾雾.js"
         },
         {
             "key": "drpy_js_百忙无果",
-            "name": "🥭百忙无果[js]",
+            "name": "🥭百忙无果",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/百忙无果.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/百忙无果.js"
         },
         {
             "key": "drpy_js_荐片",
-            "name": "📼荐片[js]",
+            "name": "📼荐片",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/百忙无果.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/荐片.js"
         },
-        // {
-        //     "key": "drpy_js_南瓜影视",
-        //     "name": "🎃南瓜影视[js]",
-        //     "type": 3,
-        //     "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-        //     "ext": "https://gitee.com/muye168/test/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86.js"
-        // },
-        // {
-        //     "key": "drpy_js_鑫鑫影视",
-        //     "name": "❤鑫鑫影视[js]",
-        //     "type": 3,
-        //     "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-        //     "ext": "https://gitee.com/muye168/test/raw/master/%E9%91%AB%E9%91%AB.js"
-        // },
+        {
+            "key": "drpy_js_360影视",
+            "name": "📼360影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/360影视.js"
+        },
+        {
+            "key": "drpy_js_南瓜影视",
+            "name": "🎃南瓜影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./南瓜影视.js"
+        },
+        {
+            "key": "drpy_js_鑫鑫影视",
+            "name": "❤鑫鑫影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./鑫鑫影视.js"
+        },
+        //app专区
+        {
+            "key": "csp_亮亮",
+            "name": "💡┃亮亮┃APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "jar": "./js/c.jar",
+            "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/"
+        },
+        {
+            "key": "csp_加速",
+            "name": "🐰┃加速┃APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "./js/c.jar",
+            "ext": "http://122.228.84.103:6117/api.php/app/"
+        },
         //XBPQ规则区
         {
             "key": "csp_XBPQ_czzy",
-            "name": " 🏭厂长资源",
+            "name": "🏭厂长资源",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -82,38 +111,18 @@
     \"分类url\":\"https://www.czzy66.com/{cateId}/page/{catePg}\"}"
         },
         {
-            "key": "csp_XBPQ_free",
-            "name": " 👌Free",
+            "key": "csp_XBPQ_freeys",
+            "name": "👌Free影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext":"./xbpq/Free影视.json"
-        },
-        {"key": "csp_亮亮","name": "💡┃亮亮┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "./js/c.jar","ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/"},
-        {
-            "key": "csp_XBPQ_freeok",
-            "name": " 👌Freeok",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"{
-    \"免嗅\":\"1\",
-    \"简介\":\"class=\\\"module-info-introduction-content&&</div\",
-    \"演员\":\"主演：&&</span>\",
-    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
-    \"线路标题\":\"<span>&&</span>\",
-    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
-    \"分类\":\"电影$1#电视剧$2#动漫$3#综艺$4#短剧$12#少儿$5\",
-    \"分类url\":\"https://www.freeok.vip/vod-show/{cateId}-----------.html\"}"
+            "ext": "./xbpq/Free影视.json"
         },
         {
             "key": "csp_XBPQ_jukankan",
-            "name": " 🐶皮皮影视",
+            "name": "🐶皮皮影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -132,7 +141,7 @@
         },
         {
             "key": "csp_XBPQ_naikan",
-            "name": " 🆖耐看影院",
+            "name": "🆖耐看影院",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -151,7 +160,7 @@
         },
         {
             "key": "csp_XBPQ_beichuan",
-            "name": " 🌊北川影院",
+            "name": "🌊北川影院",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -170,7 +179,7 @@
         },
         {
             "key": "csp_XBPQ_youyun",
-            "name": " ☁悠云影视",
+            "name": "☁悠云影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -225,7 +234,7 @@
         },
         {
             "key": "csp_TVB",
-            "name": "🅱️TVB云播|T追剧",
+            "name": "🅱️TVB云播",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -285,6 +294,25 @@
     \"播放数组\":\"class=\\\"module-play-list&&</div>\",
     \"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4#短剧$30\",
     \"分类url\":\"http://dianshijia.cc/index.php/vod/show/id/{cateId}/page/{catePg}.html\"}"
+        },
+        {
+            "key": "csp_XBPQ_cddys",
+            "name": " 🥚臭蛋蛋影视网",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext":"{
+    \"免嗅\":\"1\",
+    \"主演\":\"主演:&&</div>\",
+    \"简介\":\"class=\\\"module-info-introduction-contentshow-desc\\\"&&</div>\",
+    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
+    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
+    \"线路标题\":\"<span>&&</span>\",
+    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
+    \"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",
+    \"分类url\":\"https://cddys.me/vodshow/{cateId}--------{catePg}---.html\"}"
         },
         {
             "key": "csp_XBPQ_aikan",
@@ -528,25 +556,6 @@
     \"分类url\":\"https://xmvod520.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\"}"
         },
         {
-            "key": "csp_XBPQ_cddys",
-            "name": " 🥚臭蛋蛋影视网",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"{
-    \"免嗅\":\"1\",
-    \"主演\":\"主演:&&</div>\",
-    \"简介\":\"class=\\\"module-info-introduction-contentshow-desc\\\"&&</div>\",
-    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
-    \"线路标题\":\"<span>&&</span>\",
-    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
-    \"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",
-    \"分类url\":\"https://cddys.me/vodshow/{cateId}--------{catePg}---.html\"}"
-        },
-        {
             "key": "csp_XBPQ_subai",
             "name": "🍹素白白影视|墙",
             "type": 3,
@@ -563,7 +572,7 @@
     \"分类\":\"电影$new-movie#电视剧$tv-drama#国产剧$domestic-drama#香港经典电影$hongkong-movie\",
     \"分类url\":\"https://www.subaibaiys.com/{cateId}/page/{catePg}\"}"
         },
-    //采集接口规则区
+        //采集接口规则区
         {
             "key": "快看资源",
             "name": " 🍿快看资源",
