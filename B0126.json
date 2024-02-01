@@ -15,15 +15,15 @@
             "key": "drpy_js_豆瓣",
             "name": "➡️「公众号：暮之夜」",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/drpy.js"
+            "api": "https://raw.githubusercontent.com/yangxy001/box/master/lib/drpy2.min.js",
+            "ext": "./js/drpy.js"
         },
         {
             "key": "drpy_js_奇珍异兽",
             "name": "🥝奇珍异兽[js]",
             "type": 3,
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/奇珍异兽.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yangxy001/box/master/js/奇珍异兽.js"
         },
         {
             "key": "drpy_js_优酷",
