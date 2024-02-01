@@ -65,14 +65,14 @@
             "name": "🎃南瓜影视",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./南瓜影视.js"
+            "ext": "https://gitee.com/muye168/test/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86.js"
         },
         {
             "key": "drpy_js_鑫鑫影视",
             "name": "❤鑫鑫影视",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./鑫鑫影视.js"
+            "ext": "https://gitee.com/muye168/test/raw/master/%E9%91%AB%E9%91%AB.js"
         },
         //app专区
         {
