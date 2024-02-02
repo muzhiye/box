@@ -233,6 +233,16 @@
 \"分类url\":\"https://www.huanyuxing.com/s/id-{cateId}.html\"}"
         },
         {
+            "key": "csp_bidi",
+            "name": "🅱️哔嘀影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./xbpq/哔嘀影视.json"
+        },
+        {
             "key": "csp_TVB",
             "name": "🅱️TVB云播",
             "type": 3,
@@ -729,6 +739,47 @@
                 "港台综艺",
                 "日韩综艺",
                 "欧美综艺"
+            ]
+        },
+        {
+            "key": "量子资源",
+            "name": "🥑量子资源",
+            "type": 0,
+            "api": "https://lzizy1.com/api.php/provide/vod/",
+            "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "国产剧",
+                "国产动漫",
+                "泰国剧",
+                "台湾剧",
+                "香港剧",
+                "欧美剧",
+                "韩国剧",
+                "日本剧",
+                "动漫",
+                "体育",
+                "剧情片",
+                "动作片",
+                "爱情片",
+                "喜剧片"
+            ]
+        },
+        {
+            "key": "索尼资源",
+            "name": "📷索尼资源",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "playurl": "https://www.snplayer.com/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "国产剧",
+                "国产动漫",
+                "4K电影"
             ]
         },
         {
