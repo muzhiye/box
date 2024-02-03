@@ -233,16 +233,6 @@
 \"分类url\":\"https://www.huanyuxing.com/s/id-{cateId}.html\"}"
         },
         {
-            "key": "csp_bidi",
-            "name": "🅱️哔嘀影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./xbpq/哔嘀影视.json"
-        },
-        {
             "key": "csp_TVB",
             "name": "🅱️TVB云播",
             "type": 3,
