@@ -60,6 +60,17 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/360影视.js"
         },
+        // {
+        //     "key": "直播转点播",
+        //     "name": "📺︎┃电视┃点播",
+        //     "playerType": 1,
+        //     "type": 3,
+        //     "api": "./lib/zb.min.js",
+        //     "searchable": 1,
+        //     "quickSearch": 0,
+        //     "filterable": 0,
+        //     "ext": "./js/zb.json"
+        // },
         {
             "key": "drpy_js_南瓜影视",
             "name": "🎃南瓜影视",
@@ -74,10 +85,30 @@
             "api": "./lib/drpy2.min.js",
             "ext": "https://gitee.com/muye168/test/raw/master/%E9%91%AB%E9%91%AB.js"
         },
+        {
+            "key": "js_电影先生",
+            "name": "🤵电影先生",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/电影先生.js"
+        },
+        {
+            "key": "js_czsapp",
+            "name": "🏭️厂长资源",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/厂长资源.js"
+        },
         //app专区
         {
             "key": "csp_亮亮",
-            "name": "💡┃亮亮┃APP",
+            "name": "💡亮亮┃APP",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -88,7 +119,7 @@
         },
         {
             "key": "csp_加速",
-            "name": "🐰┃加速┃APP",
+            "name": "🐰加速┃APP",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -97,19 +128,6 @@
             "ext": "http://122.228.84.103:6117/api.php/app/"
         },
         //XBPQ规则区
-        {
-            "key": "csp_XBPQ_czzy",
-            "name": "🏭厂长资源",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"{
-    \"播放数组\":\"class=\\\"paly_list_btn&&</div>\",
-    \"分类\":\"豆瓣电影Top250$dbtop250#电影$zuixindianying#电视剧$dsj#国产剧$gcj#美剧$meijutt#热映中$reyingzhong#剧场版$dongmanjuchangban\",
-    \"分类url\":\"https://www.czzy66.com/{cateId}/page/{catePg}\"}"
-        },
         {
             "key": "csp_XBPQ_freeys",
             "name": "👌Free影视",
@@ -784,6 +802,47 @@
                 "日本剧",
                 "海外剧",
                 "泰国剧",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺"
+            ]
+        },
+        {
+            "key": "卧龙资源",
+            "name": "🐉卧龙资源",
+            "type": 1,
+            "api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list",
+            "playurl": "https://jx.wolongm3u8.com:65/m3u8.php?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "纪录片",
+                "动画片",
+                "其他片",
+                "国产剧",
+                "欧美剧",
+                "香港剧",
+                "韩国剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "其他剧",
+                "体育赛事",
                 "国产动漫",
                 "日韩动漫",
                 "欧美动漫",
