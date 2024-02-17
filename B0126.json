@@ -72,6 +72,13 @@
         //     "ext": "./js/zb.json"
         // },
         {
+            "key" : "drpy_jsyt",
+            "name" : "⛵宝盒4K",
+            "type" : 3,
+            "api" : "./lib/drpy2.min.js",
+            "ext" : "./js/yt.js"
+        },
+        {
             "key": "drpy_js_南瓜影视",
             "name": "🎃南瓜影视",
             "type": 3,
@@ -104,6 +111,13 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/厂长资源.js"
+        },
+        {
+            "key": "ikanbot3",
+            "name": "🐞ikanbot3",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext":"./js/ikanbot3.js"
         },
         //app专区
         {
@@ -158,6 +172,17 @@
     \"分类url\":\"https://www.pptv03.com/fl/{cateId}--------{catePg}---.html\"}"
         },
         {
+            "key": "csp_XBPQ_cupfox",
+            "name": "🍵茶杯狐",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./js/c.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/茶杯狐.json"
+        },
+        {
             "key": "csp_XBPQ_naikan",
             "name": "🆖耐看影院",
             "type": 3,
@@ -168,7 +193,7 @@
             "ext":"{
     \"免嗅\":\"1\",
     \"演员\":\"主演：&&</div>\",
-    \"简介\":\"class=\\\"module-info-introduction-content&&</div>\",
+    \"简介\":\"style=\\\"line-height: 20px;&&</div>\",
     \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
     \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
     \"线路标题\":\"<span>&&</small>\",
@@ -206,7 +231,7 @@
             "ext":"{
     \"免嗅\":\"1\",
     \"演员\":\"主演：&&</div>\",
-    \"简介\":\"class=\\\"module-info-introduction-content&&</div>\",
+    \"简介\":"请勿相信影片中的广告，以免上当受骗。",
     \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
     \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
     \"线路标题\":\"<span>&&</small>\",
@@ -1162,7 +1187,8 @@
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
+                "18.5333"
             ]
         },
         {
@@ -1172,7 +1198,8 @@
                 "hd.ffzy"
             ],
             "regex": [
-                "25.0666"
+                "25.0666",
+                "25.08"
             ]
         },
         {
@@ -1199,7 +1226,8 @@
                 "suonizy"
             ],
             "regex": [
-                "15.1666"
+                "15.1666",
+                "15.2666"
             ]
         },
         {
@@ -1208,15 +1236,7 @@
                 "yqk88"
             ],
             "regex": [
-                "18.4666"
-            ]
-        },
-        {
-            "name": "一起看",
-            "hosts": [
-                "yqk88"
-            ],
-            "regex": [
+                "18.4666",
                 "15.1666"
             ]
         },
