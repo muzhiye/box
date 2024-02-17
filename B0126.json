@@ -72,13 +72,6 @@
         //     "ext": "./js/zb.json"
         // },
         {
-            "key" : "drpy_jsyt",
-            "name" : "⛵宝盒4K",
-            "type" : 3,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/yt.js"
-        },
-        {
             "key": "drpy_js_南瓜影视",
             "name": "🎃南瓜影视",
             "type": 3,
