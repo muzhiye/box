@@ -64,7 +64,7 @@
             "key" : "drpy_jsyt",
             "name" : "⛵暮之夜4K",
             "type" : 3,
-            "api" : "./lib/drpy2.min.js",
+            "api" : "https://agit.ai/guot54/yg24/raw/branch/main/lib/drpy.min.js",
             "ext" : "./js/yt.js"
         },
         // {
