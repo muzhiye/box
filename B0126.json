@@ -60,6 +60,13 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/360影视.js"
         },
+        {
+            "key" : "drpy_jsyt",
+            "name" : "⛵暮之夜4K",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/yt.js"
+        },
         // {
         //     "key": "直播转点播",
         //     "name": "📺︎┃电视┃点播",
