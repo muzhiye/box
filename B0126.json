@@ -119,6 +119,16 @@
             "api": "./lib/drpy2.min.js",
             "ext":"./js/ikanbot3.js"
         },
+        {
+            "key": "js_4KHDR",
+            "name": "🧲世界磁力┃Js",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/4khdr.js"
+        },
         //app专区
         {
             "key": "csp_亮亮",
