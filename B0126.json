@@ -121,7 +121,7 @@
         },
         {
             "key": "js_4KHDR",
-            "name": "🧲世界磁力┃Js",
+            "name": "🧲世界磁力",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -787,14 +787,15 @@
         {
             "key": "量子资源",
             "name": "🥑量子资源",
-            "type": 0,
-            "api": "https://lzizy1.com/api.php/provide/vod/",
-            "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+            "type": 1,
+            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+            // "playurl": "json:https://lziplayer.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
             "categories": [
                 "国产剧",
+                "短剧",
                 "国产动漫",
                 "泰国剧",
                 "台湾剧",
