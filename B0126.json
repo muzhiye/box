@@ -181,6 +181,17 @@
     \"分类\":\"电影$1#电视剧$2#动漫$3#综艺$4\",
     \"分类url\":\"https://www.pptv03.com/fl/{cateId}--------{catePg}---.html\"}"
         },
+        {
+			"key": "BT天堂",
+			"name":"🌈BT天堂|磁力|XBPQ",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext": "./xbpq/BT天堂.json",
+			// "jar": "./lib/XBPQ.jar"
+		},
         {"key":"csp_XBPQ_bugu",
 			"name":"🐦布谷|4K磁力",
 			"type":3,
