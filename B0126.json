@@ -501,26 +501,6 @@
     \"分类url\":\"https://www.mayiyingshi.tv/vodshow/{cateId}--------{catePg}---.html\"}"
         },
         {
-            "key": "csp_XBPQ_600dy",
-            "name": " 6️⃣600影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"{
-    \"免嗅\":\"1\",
-    \"演员\":\"主演：&&</div>\",
-    \"简介\":\"class=\\\"video-info-item video-info-content\\\"&&</div>\",
-    \"副标题\":\"class=\\\"module-item-text\\\">&&</div>\",
-    \"数组\":\"class=\\\"module-item-pic&&</div>\",
-    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
-    \"线路标题\":\"<span>&&</small>\",   
-    \"播放数组\": \"class=\\\"scroll-content&&</div>\",
-    \"分类\":\"电影$264#电视剧$265#国产剧$278#港剧$279#综艺$266#动漫$267\",
-    \"分类url\":\"https://600dy.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\"}"
-        },
-        {
             "key": "csp_XBPQ_dianying100",
             "name": " 💯电影100影视",
             "type": 3,
@@ -538,23 +518,6 @@
     \"分类url\":\"https://dianying100.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html\"}"
         },
         {
-            "key": "csp_XBPQ_dudu30",
-            "name": " 🐖嘟嘟影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"{
-    \"请求头\":\"手机\",
-    \"简介\":\"介绍：&&</span>\",
-    \"副标题\":\"class=\\\"other\\\">&&</p>\",
-    \"线路数组\":\"playerico ico-Azhan&&/li>\",
-    \"线路标题\":\"</i>&&<\",
-    \"分类\":\"电影$1#电视剧$2#国产剧$12#港剧$21#综艺$31#动漫$26\",
-    \"分类url\":\"http://www.dudu30.com/?m=vod-type-id-{cateId}-pg-{catePg}.html\"}"
-        },
-        {
             "key": "csp_XBPQ_xiaolu",
             "name": " 🦌小鹿影视",
             "type": 3,
@@ -570,7 +533,7 @@
     \"线路标题\":\"<span>&&</small>\",
     \"播放数组\":\"class=\\\"module-play-list&&</div>\",
     \"分类\":\"电影$1#电视剧$31#综艺$3#动漫$4\",
-    \"分类url\":\"https://www.xiaoluys.me/vodshow/{cateId}--------{catePg}---.html\"}"
+    \"分类url\":\"https://www.ysysys.vip/vodshow/{cateId}--------{catePg}---.html\"}"
         },
         {
             "key": "csp_XBPQ_xinshijue",
