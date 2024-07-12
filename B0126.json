@@ -228,9 +228,9 @@
     \"演员\":\"主演：&&</div>\",
     \"简介\":\"style=\\\"line-height: 20px;&&</div>\",
     \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
-    \"线路标题\":\"<span>&&</small>\",
-    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
+    \"线路数组\":\"class=\\\"fa ds-dianying&&</a>\",
+    \"线路标题\":\"&nbsp;&&</span>\",
+    \"播放数组\":\"class=\\\"anthology-list-play size&&</ul>\",
     \"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$14#综艺$3#动漫$4\",
     \"分类url\":\"https://www.nkvod.com/show/{cateId}--------{catePg}---.html\"}"
         },
@@ -247,11 +247,11 @@
                 \"演员\":\"主演：&&</div>\",
                 \"简介\":\"style=\\\"line-height: 20px;&&</div>\",
                 \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-                \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
-                \"线路标题\":\"<span>&&</small>\",
-                \"播放数组\":\"class=\\\"module-play-list&&</div>\",
+                \"线路数组\":\"class=\\\"fa ds-dianying&&</a>\",
+                \"线路标题\":\"&nbsp;&&</span>\",
+                \"播放数组\":\"class=\\\"anthology-list-play size&&</ul>\",
                 \"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$14#综艺$3#动漫$4\",
-                \"分类url\":\"https://lkvod.me/show/{cateId}--------{catePg}---.html\"}"
+                \"分类url\":\"https://www.nkvod.com/show/{cateId}--------{catePg}---.html\"}"
         },
         {
             "key": "csp_XBPQ_youyun",
