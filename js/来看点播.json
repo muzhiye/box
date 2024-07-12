@@ -1,7 +1,7 @@
 {
     "作者":"荷城茶秀",
     "站名":"来看点播", 
-    "主页url":"https://lkvod.us",
+    "主页url":"https://lkvod.me",  //https://lkvod.us
     "简介":"请勿相信影片中的广告，以免上当受骗。+line-height: 20px;\"><p>&&</p>",
     "导演":"导演：&&</div>",
     "主演":"主演：&&</div>",
@@ -31,7 +31,7 @@
     "播放列表":"<a&&</a>",
 
     //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
-    "分类url":"https://lkvod.us/show/{cateId}--{by}------{catePg}---{year}.html",
+    "分类url":"https://lkvod.me/show/{cateId}-----------{year}.html",
     //https://lkvod.us/show/1--time------2---2023.html
 
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
