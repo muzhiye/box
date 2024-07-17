@@ -60,6 +60,21 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/360影视.js"
         },
+        {
+            "key": "虎牙直播js",
+            "name": "🐯虎牙直播",
+            "playerType": 1,
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/虎牙直播.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.755
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
         // {
         //     "key": "直播转点播",
         //     "name": "📺︎┃电视┃点播",
@@ -110,7 +125,7 @@
             "name": "🐞ikanbot3",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext":"./js/ikanbot3.js"
+            "ext": "./js/ikanbot3.js"
         },
         {
             "key": "js_4KHDR",
@@ -242,7 +257,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext":"./js/来看点播.json"
+            "ext": "./js/来看点播.json"
         },
         {
             "key": "csp_XBPQ_youyun",
