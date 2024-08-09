@@ -200,6 +200,23 @@
             "ext": "./js/七新影视.json"
         },
         {
+            "key": "csp_XBPQ_subai",
+            "name": "👩‍💼素白白影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext":"{
+    \"免嗅\":\"0\",
+     \"主演\":\"主演:&&</div>\",
+    \"播放数组\":\"class=\\\"paly_list_btn&&</div>\",
+    \"副标题\":\"class=\\\"jidi\\\">&&</span>\",
+    \"简介\":\"class=\\\"yp_context\\\"*<p>&&</div>\",
+    \"分类\":\"电影$new-movie#电视剧$tv-drama#国产剧$domestic-drama#香港经典电影$hongkong-movie\",
+    \"分类url\":\"https://www.subaibaiys.com/{cateId}/page/{catePg}\"}"
+        },
+        {
             "key": "csp_黑狐",
             "name": "🦊黑狐影视",
             "type": 3,
@@ -599,23 +616,6 @@
     \"播放数组\":\"class=\\\"module-play-list&&</div>\",
     \"分类\":\"电影$52#电视剧$69#国产剧$70#港剧$71#综艺$77#动漫$75\",
     \"分类url\":\"https://xmvod520.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\"}"
-        },
-        {
-            "key": "csp_XBPQ_subai",
-            "name": "🍹素白白影视|墙",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"{
-    \"免嗅\":\"0\",
-     \"主演\":\"主演:&&</div>\",
-    \"播放数组\":\"class=\\\"paly_list_btn&&</div>\",
-    \"副标题\":\"class=\\\"jidi\\\">&&</span>\",
-    \"简介\":\"class=\\\"yp_context\\\"*<p>&&</div>\",
-    \"分类\":\"电影$new-movie#电视剧$tv-drama#国产剧$domestic-drama#香港经典电影$hongkong-movie\",
-    \"分类url\":\"https://www.subaibaiys.com/{cateId}/page/{catePg}\"}"
         },
         //采集接口规则区
         {
