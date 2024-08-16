@@ -4,7 +4,7 @@
         {
             "name": "TXT",
             "type": 0,
-            "url": "https://122.114.109.20:99/live.txt",
+            "url": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/muzhiye/box/raw/0.txt?ref=master",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
