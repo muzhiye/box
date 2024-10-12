@@ -137,28 +137,6 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/4khdr.js"
         },
-        //app专区
-        {
-            "key": "csp_亮亮",
-            "name": "💡亮亮┃APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "jar": "./js/c.jar",
-            "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/"
-        },
-        {
-            "key": "csp_加速",
-            "name": "🐰加速┃APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "./js/c.jar",
-            "ext": "http://122.228.84.103:6117/api.php/app/"
-        },
         //XBPQ规则区
         {
             "key": "csp_XBPQ_freeys",
@@ -235,17 +213,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/蛋蛋影视.json"
-        },
-        {
-            "key": "csp_XBPQ_cupfox",
-            "name": "🍵茶杯狐",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./js/c.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/茶杯狐.json"
         },
         {
             "key": "csp_XBPQ_naikan",
