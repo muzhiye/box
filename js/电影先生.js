@@ -4,7 +4,7 @@ muban.mxone5.二级.content = '.video-info-content&&Text';
 var rule = {
     title: '电影先生',
     模板: 'mxone5',
-    host: 'http://dyxs31.com',
+    host: 'https://dianyi.ng',
     url: '/pianku-fyclassfyfilter/',
     filterable: 1,
     filter_url: '-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}----fypage---{{fl.year}}',
