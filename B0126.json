@@ -137,7 +137,29 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/4khdr.js"
         },
+        //XYQHiker规则区
+        {
+            "key": "csp_XYQHiker_素白白影视",
+            "name": "素白白影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/素白白影视.json"
+        },
         //XBPQ规则区
+        {
+            "key": "sp_XBPQ_茶狐杯",
+            "name": "🍵茶狐杯",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/茶狐杯.json"
+        },
         {
             "key": "csp_XBPQ_freeys",
             "name": "👌Free影视",
@@ -860,7 +882,7 @@
         },
         {
             "name": "-播放线路②-",
-            "type": 0,
+            "type": 1,
             "url": "https://jx.2s0.cn/player/?url="
         },
         {

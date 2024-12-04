@@ -4,7 +4,7 @@
     
     "站名":"Free影视",
     
-    "主页url":"https://www.freeok.vip",
+    "主页url":"https://www.freeok.biz",  //https://www.freeok.vip
     
     "简介":"请勿相信影片中的广告，以免上当受骗。+module-info-introduction-content\">&&</p>",
     
@@ -40,7 +40,7 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类url":"https://www.freeok.biz/vod-show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
     
     "分类":"电影$1#电视剧$2#动漫$3#综艺$4",
     
