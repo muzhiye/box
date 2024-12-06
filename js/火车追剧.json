@@ -19,7 +19,7 @@
    "搜索url": "/vod/search.html?wd={wd}",     //https://www.tdgo.shop/vod/search.html?wd=白夜破晓
    "搜索数组": "module-card-item-class\">&&</a>",
    "搜索标题": "alt=\"&&\"",
-   "搜索副标题": "note\">&&</div>",
+   "搜索副标题": "module-item-note\">&&</div>",
    "搜索图片": "data-original=\"&&\"",
    "搜索链接": "href=\"&&\"",
 
