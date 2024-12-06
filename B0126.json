@@ -171,6 +171,26 @@
             "ext": "./xbpq/Free影视.json"
         },
         {
+            "key": "csp_XBPQ_saohuo",
+            "name": "🔥骚火影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/骚火影视.json"
+        },
+        {
+            "key": "csp_XBPQ_huoche",
+            "name": "🚂火车追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/火车追剧.json"
+        },
+        {
             "key": "csp_XBPQ_jukankan",
             "name": "🐶皮皮影视",
             "type": 3,
@@ -186,8 +206,8 @@
     \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
     \"线路标题\":\"<span>&&</span>\",
     \"播放数组\":\"class=\\\"module-play-list&&</div>\",
-    \"分类\":\"电影$1#电视剧$2#动漫$3#综艺$4\",
-    \"分类url\":\"https://www.pipi12.tv/vodshow/{cateId}-----------.html\"}"
+    \"分类\":\"电影$1#电视剧$2#动漫$4#综艺$3\",
+    \"分类url\":\"https://www.pipi15.tv/vodshow/{cateId}-----------.html\"}"
         },
         {
             "key": "csp_七新",
@@ -229,14 +249,14 @@
             "filterable": 0,
             "ext":"{
     \"免嗅\":\"1\",
-    \"演员\":\"主演：&&</div>\",
+    \"演员\":\"主演：&&</span>\",
     \"简介\":\"style=\\\"line-height: 20px;&&</div>\",
     \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
     \"线路数组\":\"class=\\\"fa ds-dianying&&</a>\",
     \"线路标题\":\"&nbsp;&&</span>\",
-    \"播放数组\":\"class=\\\"anthology-list-play size&&</ul>\",
-    \"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$14#综艺$3#动漫$4\",
-    \"分类url\":\"https://www.nkvod.com/show/{cateId}--------{catePg}---.html\"}"
+    \"播放数组\":\"class=\\\"module-play-list-content  module-play-list-base&&</div>\",
+    \"分类\":\"电影$20#剧集$21#国产剧$34#港剧$35#综艺$23#动漫$22\",
+    \"分类url\":\"https://www.nkdvd.com/vodshow/id/{cateId}.html\"}"
         },
         {
             "key": "csp_XBPQ_NUUzx",
@@ -299,14 +319,14 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext":"{
-\"演员\":\"◎主演：&&</p>\",
-\"简介\":\"class=\\\"tjuqing&&</div>\",
-\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-\"线路数组\":\"class=\\\"downtitle cf&&</div>\",
-\"线路标题\":\"id=\\\"play\\\">&&</ui>\",
-\"播放数组\":\"id=\\\"playlist&&</div>\",
-\"分类\":\"电影$a#电视剧$b#综艺$d#动漫$c\",
-\"分类url\":\"https://www.huanyuxing.com/s/id-{cateId}.html\"}"
+                \"演员\":\"◎主演：&&</p>\",
+                \"简介\":\"class=\\\"tjuqing&&</div>\",
+                \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
+                \"线路数组\":\"class=\\\"downtitle cf&&</div>\",
+                \"线路标题\":\"id=\\\"play\\\">&&</ui>\",
+                \"播放数组\":\"id=\\\"playlist&&</div>\",
+                \"分类\":\"电影$a#电视剧$b#综艺$d#动漫$c\",
+                \"分类url\":\"https://www.huanyuxing.com/s/id-{cateId}.html\"}"
         },
         {
             "key": "csp_TVB",
@@ -353,25 +373,6 @@
     \"分类url\":\"http://www.czphgj.com/czvodshow/{cateId}--------{catePg}---.html\"}"
         },
         {
-            "key": "csp_XBPQ_dianshijia",
-            "name": " 📺电视家影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"{
-    \"免嗅\":\"1\",
-    \"演员\":\"主演：&&</div>\",
-    \"简介\":\"class=\\\"module-info-introduction-content&&</div>\",
-    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
-    \"线路标题\":\"<span>&&</small>\",
-    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
-    \"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4#短剧$30\",
-    \"分类url\":\"http://dianshijia.cc/index.php/vod/show/id/{cateId}/page/{catePg}.html\"}"
-        },
-        {
             "key": "csp_XBPQ_cddys",
             "name": " 🥚臭蛋蛋影视网",
             "type": 3,
@@ -389,61 +390,6 @@
     \"播放数组\":\"class=\\\"module-play-list&&</div>\",
     \"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",
     \"分类url\":\"https://cddys.me/vodshow/{cateId}--------{catePg}---.html\"}"
-        },
-        {
-            "key": "csp_XBPQ_aikan",
-            "name": " 📽爱看影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"{
-    \"主演\":\"主演：&&</div>\",
-    \"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",
-    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
-    \"线路标题\":\"<span>&&</small>\",
-    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
-    \"分类\":\"电影$1#电视剧$2#国产剧$42#港剧$49#综艺$3#动漫$4\",
-    \"分类url\":\"https://www.3wyy.com/vodshow/{cateId}--------{catePg}---.html\"}"
-        },
-        {
-            "key": "csp_XBPQ_duoju",
-            "name": " 🎭多剧影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"{
-    \"免嗅\":\"1\",
-    \"演员\":\"主演：&&</div>\",
-    \"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",
-    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
-    \"线路标题\":\"<span>&&</small>\",
-    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
-    \"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$34#综艺$3#动漫$4\",
-    \"分类url\":\"https://duoju.vip/vodshow/{cateId}--------{catePg}---.html\"}"
-        },
-        {
-            "key": "csp_XBPQ_aifeng",
-            "name": " 🌆秋霞影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"{
-    \"主演\":\"主演：&&</span>\",
-    \"简介\":\"class=\\\"left text-muted&&</span>\",
-    \"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
-    \"线路数组\":\"class=\\\"stui-pannel_hd&&</div>\",
-    \"线路标题\":\"title\\\">&&</h3>\",
-    \"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",
-    \"分类\":\"电影$dianying#电视剧$lianxuju#国产剧$guochanju#港剧$gangtaiju#综艺$zongyi#动漫$dongman\",
-    \"分类url\":\"https://www.aifengys.cc/show/{cateId}--------{catePg}---/\"}"
         },
         {
             "key": "csp_XBPQ_pingguo",
@@ -501,41 +447,6 @@
     \"分类url\":\"https://www.mayiyingshi.tv/vodshow/{cateId}--------{catePg}---.html\"}"
         },
         {
-            "key": "csp_XBPQ_dianying100",
-            "name": " 💯电影100影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"{
-    \"简介\":\"sketch content&&</span>\",
-    \"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
-    \"线路数组\":\"data-toggle&&/li>\",
-    \"线路标题\":\">&&</a>\",
-    \"播放数组\":\"myui-content__list playlist&&</ul>\",
-    \"分类\":\"电影$28#电视剧$2#国产剧$24#港剧$23#综艺$31#动漫$26\",
-    \"分类url\":\"https://dianying100.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html\"}"
-        },
-        {
-            "key": "csp_XBPQ_xiaolu",
-            "name": " 🦌小鹿影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"{
-    \"演员\":\"主演：&&</div>\",
-    \"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",
-    \"副标题\":\"class=\\\"module-info-item-content\\\">&&</div>\",
-    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
-    \"线路标题\":\"<span>&&</small>\",
-    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
-    \"分类\":\"电影$1#电视剧$31#综艺$3#动漫$4\",
-    \"分类url\":\"https://www.ysysys.vip/vodshow/{cateId}--------{catePg}---.html\"}"
-        },
-        {
             "key": "csp_XBPQ_xinshijue",
             "name": " 👓新视觉影视网",
             "type": 3,
@@ -554,45 +465,6 @@
     \"播放数组\":\"class=\\\"scroll-content&&</div>\",
     \"分类\":\"电影$1#电视剧$2#国产剧$42#港台剧$49#综艺$3#动漫$4\",
     \"分类url\":\"https://www.6080yy3.com/vodshow/{cateId}--------{catePg}---.html\"}"
-        },
-        {
-            "key": "csp_XBPQ_nbys",
-            "name": " 🦙泥巴影视|墙",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"{
-    \"主演\":\"主演：&&</div>\",
-    \"标题\":\"class=\\\"module-poster-item-title\\\">&&</div>\",
-    \"简介\":\"class=\\\"video-info-itemvideo-info-contentvod_content\\\"&&</div>\",
-    \"数组\":\"class=\\\"module-item-pic&&</div>\",
-    \"副标题\":\"class=\\\"module-item-text\\\">&&</div>\",
-    \"线路数组\":\"class=\\\"module-tab-itemtab-item&&</div>\",
-    \"线路标题\":\"<span>&&</span>\",
-    \"播放数组\":\"class=\\\"scroll-content&&</div>\",
-    \"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$14#综艺$3#动漫$4\",
-    \"分类url\":\"https://nbys.top/index.php/vod/show/id/{cateId}/page/{catePg}.html\"}"
-        },
-        {
-            "key": "csp_XBPQ_xiongmao",
-            "name": " 🐼熊猫影视|墙",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"{
-    \"主演\":\"主演：&&</div>\",
-    \"标题\":\"class=\\\"module-poster-item-title\\\">&&</div>\",
-    \"简介\":\"class=\\\"module-info-introduction-content\\\"&&</div>\",
-    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-    \"线路数组\":\"class=\\\"module-tab-itemtab-item&&</div>\",
-    \"线路标题\":\"<span>&&</span>\",
-    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
-    \"分类\":\"电影$52#电视剧$69#国产剧$70#港剧$71#综艺$77#动漫$75\",
-    \"分类url\":\"https://xmvod520.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\"}"
         },
         //采集接口规则区
         {
