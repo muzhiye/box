@@ -16,7 +16,7 @@
     "链接":"href=\"&&\"",
 
 //搜索页面
-   "搜索url": "/search/wd/{wd}.html",     //https://www.tdgo.shop/vod/search/wd/我是刑警.html
+   "搜索url": "/vod/search.html?wd={wd}",     //https://www.tdgo.shop/vod/search.html?wd=白夜破晓
    "搜索数组": "module-card-item-class\">&&</a>",
    "搜索标题": "alt=\"&&\"",
    "搜索副标题": "note\">&&</div>",
