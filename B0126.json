@@ -149,6 +149,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./lib/XYQH.jar",
             "ext": "./js/素白白影视.json"
         },
         //XBPQ规则区
