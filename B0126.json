@@ -1,6 +1,6 @@
 {
     //"spider": "./B240126.jpg",
-    "spider": "https://codeberg.org/muzhiye/boxs/raw/branch/master/c.jar",
+    "spider": "./c.jar",
     "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
     "lives": [
         {
@@ -149,7 +149,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://codeberg.org/muzhiye/boxs/raw/branch/master/lib/XYQH.jar",
+            "jar": "./lib/XYQH.jar",
             "ext": "./js/素白白影视.json"
         },
         //XBPQ规则区
@@ -789,7 +789,12 @@
             "name": "-播放线路⑧-",
             "type": 0,
             "url": "https://cdn.zyc888.top/?url="
-        }
+        },
+        {
+            "name": "-播放线路⑨-",
+            "type": 0,
+            "url": "https://player.mrgaocloud.com/player/?url="
+          }
     ],
     "ijk": [
         {
