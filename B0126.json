@@ -184,6 +184,16 @@
             "ext": "./js/骚火影视.json"
         },
         {
+            "key": "csp_XBPQ_keke",
+            "name": "🍫可可影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext":"./js/可可影视.json"
+        },
+        {
             "key": "csp_XBPQ_huoche",
             "name": "🚂火车追剧",
             "type": 3,
