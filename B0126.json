@@ -768,7 +768,8 @@
         {
             "name": "-播放线路②-",
             "type": 0,
-            "url": "https://jx.2s0.cn/player/?url="
+            "url": "https://150.138.78.37:4399/api/?key=94b07e0b2c0e8244&url="
+            // "url": "https://jx.2s0.cn/player/?url="
         },
         {
             "name": "-播放线路③-",
