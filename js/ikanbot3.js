@@ -1,6 +1,6 @@
 var rule = {
     title:'爱看机器人3',
-    host:'https://v.aikanbot.com',  //https://www.aikanbot.com
+    host:'https://www.aikanbot.com',
     url:'/hot/index-fyclass-fyfilter-p-fypage.html[/hot/index-fyclass-fyfilter.html]',
     searchUrl:'/search?q=**&p=fypage[/search?q=**]',
     searchable:2,
@@ -32,7 +32,7 @@ var rule = {
         //剧集执行:
         let data = {'tv': [{'key': 'tag', 'name': '标签', 'value': value}]};
         console.log(JSON.stringify(data));
-    `,
+    `，
     headers:{'User-Agent':'PC_UA',},
     class_name:'电影&剧集',
     class_url:'movie&tv',
