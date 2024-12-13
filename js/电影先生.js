@@ -5,9 +5,10 @@ var rule = {
     title: '电影先生',
     模板: 'mxone5',
     host: 'https://dianyi.ng',
-    url: '/pianku-fyclassfyfilter/',
+    url: '/pianku-',
+    // url: '/pianku-fyclassfyfilter/',
     filterable: 1,
-    filter_url: '-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}----fypage---{{fl.year}}',
+    filter_url: '-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-------{{fl.year}}.html',
     filter: {
         "dianying": [{
             "key": "class",
@@ -1098,7 +1099,8 @@ var rule = {
             by: 'time'
         }
     },
-    searchUrl: '/search-**-----------fypage--/',
+    searchUrl: '/search--------------.html?wd=**',
+    // searchUrl: '/search-**-----------fypage--/',
     class_parse: '.nav-menu-items&&li:gt(0):lt(5);a&&Text;a&&href;.*/(.*?)/',
     lazy: "js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);log(html);var url=html.url;if(html.encrypt=='1'){url=unescape(url).split('&')[0]}else if(html.encrypt=='2'){url=unescape(base64Decode(url).split('&')[0])}if(/m3u8|mp4/.test(url)){input=url}else{input}",
 }
