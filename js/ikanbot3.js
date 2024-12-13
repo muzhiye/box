@@ -32,7 +32,7 @@ var rule = {
         //剧集执行:
         let data = {'tv': [{'key': 'tag', 'name': '标签', 'value': value}]};
         console.log(JSON.stringify(data));
-    `，
+    `,
     headers:{'User-Agent':'PC_UA',},
     class_name:'电影&剧集',
     class_url:'movie&tv',
