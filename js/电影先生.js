@@ -5,7 +5,7 @@ var rule = {
     title: '电影先生',
     模板: 'mxone5',
     host: 'https://dianyi.ng',
-    url: '/pianku-',
+    url: '/pianku',
     // url: '/pianku-fyclassfyfilter/',
     filterable: 1,
     filter_url: '-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-------{{fl.year}}.html',
