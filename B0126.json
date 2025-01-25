@@ -6,7 +6,8 @@
         {
             "name": "TXT",
             "type": 0,
-            "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "url": "https://raw.kkgithub.com/Guovin/iptv-api/gd/output/result.txt",
+            // "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "epg": "https://epg.muzhiye.us.kg/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         }
@@ -61,6 +62,13 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/360影视.js"
+        },
+        {
+            "key": "dr_低端",
+            "name": "🔥低端影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/低端影视.js"
         },
         {
             "key": "drpy_js_虎牙直播",
@@ -191,7 +199,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext":"./js/可可影视.json"
+            "ext": "./js/可可影视.json"
         },
         {
             "key": "csp_XBPQ_huoche",
@@ -761,7 +769,7 @@
             "url": "Web"
         },
         {
-            "name":"-播放线路①-",
+            "name": "-播放线路①-",
             "type": 1,
             "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
         },
@@ -805,7 +813,7 @@
             "name": "-播放线路⑨-",
             "type": 0,
             "url": "https://player.mrgaocloud.com/player/?url="
-          }
+        }
     ],
     "ijk": [
         {
