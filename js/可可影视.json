@@ -15,7 +15,7 @@
     "副标题": "<span>&&</span>",
     
     "搜索模式": "1",
-    "搜索url": "https://www.keke6.app/search?k={wd}",
+    "搜索url": "https://www.keke6.app/search?os=pc&k={wd}",
     "搜索二次截取": "<div class=\"search-result-list fs-margin-section\">&&</a>",
     "搜索数组": "<a&&<div class=\"search-result-item-main\">",
     "搜索图片": "data-original=\"&&\"[替换:/vod1>>https://61.147.93.252:15002/vod1]",
