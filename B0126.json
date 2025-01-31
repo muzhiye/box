@@ -2,6 +2,7 @@
     //"spider": "./B240126.jpg",
     "spider": "./c.jar",
     "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
+    "wallpaper": "https://www.100km.top/api/img.php",
     "lives": [
         {
             "name": "TXT",
@@ -70,6 +71,27 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/低端影视.js"
+        },
+        {
+            "key": "drpy_js_NY影院",
+            "name": "🗽纽约影院",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/NY影院.js"
+        },
+        {
+            "key": "drpy_js_楚门影院",
+            "name": "🚪楚门影院",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/楚门影院.js"
+        },
+        {
+            "key": "drpy_js_B站影视",
+            "name": "🅱B站影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/B站影视.js"
         },
         {
             "key": "drpy_js_虎牙直播",
