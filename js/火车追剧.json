@@ -1,40 +1,14 @@
 {
-    "作者":"荷城茶秀",
-    "站名":"火车追剧", 
-    "主页url":"https://tdgo.shop",  //https://dyls1.club/
-    "简介":"请勿相信影片中的广告，以免上当受骗。+module-info-introduction-content\"><p>&&</p>",
-    "导演":"导演：&&</div>",
-    "主演":"主演：&&</div>",
-    "影片类型":"更新：&&</div>",
-    "影片状态":"备注：&&</div>",
-
-//分类页面
-    "数组":"module-poster-item-info\">&&/div></div>",
-    //"数组":"<a&&/div></div></a>",
-    "标题":"title=\"&&\"",
-    "副标题":"note\">&&</div>",
-    "图片":"data-original=\"&&\"",
-    "链接":"href=\"&&\"",
-
-//搜索页面
-   "搜索url": "/vod/search.html?wd={wd}",     //https://www.tdgo.shop/vod/search.html?wd=白夜破晓
-   "搜索数组": "module-card-item-class\">&&</a>",
-   "搜索标题": "alt=\"&&\"",
-   "搜索副标题": "module-item-note\">&&</div>",
-   "搜索图片": "data-original=\"&&\"",
-   "搜索链接": "href=\"&&\"",
-
-//播放列表
-    "线路数组":"data-dropdown-value=&&</div>",
-    "线路标题":"🌸+<span>&&</small>[替换:</span><small>>>>⚡️共]+集",
-    "播放数组":"<div class=\"module-play-list-content&&</div>",
-    "播放标题":"<span>&&</span>",
-    "播放列表":"<a&&</a>",
-
-    //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
-    "分类url":"https://tdgo.shop/vod/show/id/{cateId}-----------{year}.html",
-    //hhttps://www.tdgo.shop/vod/show/area/大陆/by/time/class/Netflix/id/21/year/2024.html
-    "分类":"电影$20#剧集$21#综艺$23#动漫$22#短剧$24",
-    
-}    
-    
+    "主页url":"https://tdgo.shop",
+    "副标题": "module-item-note\">&&</div>",
+    "搜索url": "https://tdgo.shop/vodsearch/{wd}-------------.html",
+    "影片年代": "<div class=\"module-info-tag\">&&</div>",
+    "影片地区": "未知",
+    "影片状态": "备注：&&</div>",
+    "影片类型": "module-info-tag\">&&立即播放",
+    "线路数组": "data-dropdown-value=&&</div>",
+    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+  //"分类url": "https://dylstv.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类url": "https://tdgo.shop/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+    "分类": "电影$20#剧集$21#综艺$23#动漫$22#短剧$24"
+}
