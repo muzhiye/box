@@ -2,7 +2,7 @@
     //"spider": "./B240126.jpg",
     "spider": "./c.jar",
     "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
-    "wallpaper": "https://www.100km.top/api/img.php",
+    "wallpaper": "https://picsum.photos/1280/720/?blur=2",
     "lives": [
         {
             "name": "TXT",
@@ -140,7 +140,48 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/4khdr.js"
         },
-        {
+          {
+            "key": "csp_Mp4Mov",
+            "name": "🧲在线磁力",
+            "type": 3,
+            "api": "csp_Mp4Mov",
+            "jar": "./tvkj.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+          },
+          {
+            "key": "csp_New6v",
+            "name": "🧲新六磁力",
+            "type": 3,
+            "api": "csp_New6v",
+            "jar": "./tvkj.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.xb6v.com"
+          },
+          {
+            "key": "csp_SeedHub",
+            "name": "🧲狐播磁力",
+            "type": 3,
+            "api": "csp_SeedHub",
+            "jar": "./tvkj.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+          },
+          {
+            "key": "csp_MeijuMi",
+            "name": "🧲美剧磁力",
+            "type": 3,
+            "api": "csp_MeijuMi",
+            "jar": "./tvkj.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+          },
+          {
             "key": "天天弹幕版",
             "name": "🌁天天",
             "type": 3,
@@ -761,15 +802,13 @@
         },
         {
             "name": "-播放线路①-",
-            "type": 0,
-            "url": "https://pl.a6club.com/player/analysis.php?v="
-            // https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url=
+            "type": 1,
+            "url": "https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url="
         },
         {
             "name": "-播放线路②-",
-            "type": 1,
-            "url": "https://150.138.78.37:4399/api/?key=94b07e0b2c0e8244&url="
-            // "url": "https://jx.2s0.cn/player/?url="
+            "type": 0,
+             "url": "https://jx.2s0.cn/player/?url="
         },
         {
             "name": "-播放线路③-",
