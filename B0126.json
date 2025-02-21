@@ -2,13 +2,13 @@
     //"spider": "./B240126.jpg",
     "spider": "./c.jar",
     "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
-    "wallpaper": "https://picsum.photos/1280/720/?blur=2",
+    "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "lives": [
         {
             "name": "TXT",
             "type": 0,
             // "url": "https://raw.kkgithub.com/Guovin/iptv-api/gd/output/result.txt",
-            "url":"https://codeberg.org/muzhiye/live/raw/branch/main/tv.txt",
+            "url":"https://codeberg.org/muzhiye/live/raw/branch/main/1.txt",
             // "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "epg": "https://epg.muzhiye.us.kg/?ch={name}&date={date}",
             "logo": "https://diyp.112114.xyz/logo/{name}.png"
